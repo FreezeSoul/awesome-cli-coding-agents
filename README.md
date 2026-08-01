@@ -13,7 +13,7 @@
 
 A curated list of **90+ CLI coding agents** — AI-powered tools that live in your terminal, read/edit repos, and run commands — plus the **harnesses** that orchestrate, sandbox, or extend them.
 
-> **Last updated:** 2026-07-29
+> **Last updated:** 2026-08-01
 
 ### What is a CLI coding agent?
 
@@ -84,6 +84,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 - **[SWE-agent](https://github.com/SWE-agent/SWE-agent)** `⭐ 20k` — Agent for resolving real repo issues/PR tasks; frequently used in SWE-bench-style workflows.
 
 - **[Plandex](https://github.com/plandex-ai/plandex)** `⭐ 15.5k` — "Plan-first" CLI agent for building features across multiple files with structured steps and 2M token context.
+
+- **[jcode](https://github.com/1jehuang/jcode)** `⭐ 14.9k` — Rust TUI agent optimized for RAM and startup latency (~28 MB PSS per session with local embeddings off), built for scaling many parallel sessions. Agent memory, swarm mode, browser automation, MCP, and 40+ providers with built-in OAuth login flows. MIT.
 
 - **[MiMo Code](https://github.com/XiaomiMiMo/MiMo-Code)** `⭐ 12.5k` `[Xiaomi]` — Xiaomi's official terminal coding agent; TUI + non-interactive modes, MCP, skills, hooks, git worktrees, and resumable sessions. Runs MiMo-V2.5-Pro or any mainstream provider; npm `@xiaomi-mimo/cli`. MIT.
 
