@@ -13,7 +13,7 @@
 
 A curated list of **120+ CLI coding agents** — AI-powered tools that live in your terminal, read/edit repos, and run commands — plus the **harnesses** that orchestrate, sandbox, or extend them.
 
-> **Last updated:** 2026-08-24
+> **Last updated:** 2026-08-25
 
 ### What is a CLI coding agent?
 
